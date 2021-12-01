@@ -1,0 +1,25 @@
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background: #3434347d;
+}
+
+.dialog {
+    margin: 10%;
+    height: auto;
+    padding: 20px;
+    background: #dbdbdb;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.dialog-content {
+    padding: 15px;
+}

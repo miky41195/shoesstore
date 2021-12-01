@@ -1,0 +1,13 @@
+header.header {
+    background-color: orange;
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ul {
+    list-style-type: none;
+}

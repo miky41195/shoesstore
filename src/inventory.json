@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Slipon",
+        "brand": "VANS",
+        "sizes": [38, 39, 42],
+        "price": 99
+    },
+    {
+        "name": "Authentic",
+        "brand": "VANS",
+        "sizes": [40, 42, 44],
+        "price": 129
+    },
+    {
+        "name": "Old School",
+        "brand": "VANS",
+        "sizes": [41, 44, 45, 46],
+        "price": 149
+    },
+    {
+        "name": "Oxford",
+        "brand": "Timberland",
+        "sizes": [42, 46],
+        "price": 189
+    },
+    {
+        "name": "Trekker",
+        "brand": "Timberland",
+        "sizes": [39, 43],
+        "price": 179
+    },
+    {
+        "name": "Basic",
+        "brand": "GEOX",
+        "sizes": [37, 40, 42, 43, 45, 46],
+        "price": 79
+    },
+    {
+        "name": "Super PRO",
+        "brand": "GEOX",
+        "sizes": [42, 45, 47],
+        "price": 119
+    },
+    {
+        "name": "Super Stylish",
+        "brand": "Prada",
+        "sizes": [38, 39, 40],
+        "price": 299
+    },
+    {
+        "name": "Crocodile skin",
+        "brand": "Prada",
+        "sizes": [37, 40, 41],
+        "price": 399
+    }
+]
